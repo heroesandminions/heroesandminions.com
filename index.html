@@ -11,17 +11,26 @@
       body {
         margin: 0;
         background-color: #2a1149;
+        background-image: url(./image.png);
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100vh;
+      }
+      @media(max-width:1024px){
+        body{
+          background-size: 175%;
+    background-position: top;
+        }
       }
       img {
         width: 100%;
         height: 100%;
-        max-width: 1000px;
-        margin: 8% auto 0 auto;
         display: block;
-        object-fit: contain;
+        object-fit: cover;
       }
     </style>
 
-    <img src="./bg.png" alt="heroesandminions.com" />
+    <!-- <img src="./image.png" alt="heroesandminions.com" /> -->
   </body>
 </html>
