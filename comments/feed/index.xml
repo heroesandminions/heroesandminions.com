@@ -16,7 +16,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.1</generator>
+	<generator>https://wordpress.org/?v=5.9.2</generator>
 	<item>
 		<title>
 		Comment on Witaj, świecie! by Komentator WordPress		</title>
@@ -38,7 +38,7 @@ Awatary komentujących pochodzą z <a href="https://pl.gravatar.com/">Gravatara<
 		<item>
 		<title>
 		Comment on Gaming sport t-shirt by smith		</title>
-		<link>./../../product/gaming-sport-t-shirt/index.html#comment-15</link>
+		<link>./../../index.html?p=137/#comment-15</link>
 
 		<dc:creator><![CDATA[smith]]></dc:creator>
 		<pubDate>Sat, 18 Jul 2020 06:06:01 +0000</pubDate>
@@ -52,7 +52,7 @@ Awatary komentujących pochodzą z <a href="https://pl.gravatar.com/">Gravatara<
 		<item>
 		<title>
 		Comment on Gaming sport t-shirt by smith		</title>
-		<link>./../../product/gaming-sport-t-shirt/index.html#comment-14</link>
+		<link>./../../index.html?p=137/#comment-14</link>
 
 		<dc:creator><![CDATA[smith]]></dc:creator>
 		<pubDate>Thu, 02 Jul 2020 11:29:46 +0000</pubDate>
