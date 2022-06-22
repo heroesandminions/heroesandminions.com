@@ -1,0 +1,98 @@
+
+---Downloaded files---
+The import files for: Demo were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = http://localhost/heroesandminions.com
+Data file = D:\xampp\htdocs\heroesandminions.com/wp-content/themes/geco/assets/demo/content.xml
+Widget file = D:\xampp\htdocs\heroesandminions.com/wp-content/themes/geco/assets/demo/widgets.wie
+Customizer file = D:\xampp\htdocs\heroesandminions.com/wp-content/themes/geco/assets/demo/customizer.dat
+Redux files:
+geco_options -> D:\xampp\htdocs\heroesandminions.com/wp-content/themes/geco/assets/demo/redux.json 
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Test Forum: Loads of Topics.": Invalid post type forum
+[WARNING] Failed to import "The Journey to Going Pro in DOTA 2": Invalid post type forum
+[WARNING] Failed to import "How to become a gamer in counter strike": Invalid post type forum
+
+
+------
+New AJAX call!
+[WARNING] Failed to import "Test Forum: Loads of Topics.": Invalid post type forum
+[WARNING] Failed to import "The Journey to Going Pro in DOTA 2": Invalid post type forum
+[WARNING] Failed to import "How to become a gamer in counter strike": Invalid post type forum
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Własny HTML - No Title - Imported
+Wyszukiwanie - No Title - Imported
+Kategorie - Category List - Imported
+Chmurka tagów - No Title - Imported
+
+Footer Widgets Column-1 : 
+
+Własny HTML - No Title - Imported
+
+Footer Widgets Column-2 : 
+
+Menu nawigacji - CATEGORIES - Imported
+
+Footer Widgets Column-3 : 
+
+Menu nawigacji - NEED HELP? - Imported
+
+Footer Widgets Column-4 : 
+
+Własny HTML - No Title - Imported
+Własny HTML - No Title - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: geco_options finished successfully!
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
