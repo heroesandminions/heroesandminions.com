@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+		<!--	created with www.mysitemapgenerator.com	-->
+		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+	<loc>https://minionverse.io/</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://minionverse.io/index.html</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>1.0</priority>
+</url>
+<url>
+	<loc>https://minionverse.io/about/index.html</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://minionverse.io/tac/index.html</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://minionverse.io/privacy-policy/index.html</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://minionverse.io/tokenomics/index.html</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+<url>
+	<loc>https://minionverse.io/wp-content/uploads/2022/06/Minionverse-Pitchdeck-v7.pdf</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>0.2</priority>
+</url>
+<url>
+	<loc>https://minionverse.io/team-minionverse/index.html</loc>
+	<lastmod>2022-07-04T22:56:56+01:00</lastmod>
+	<priority>0.8</priority>
+</url>
+</urlset>
